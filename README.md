@@ -1,4 +1,3 @@
-# ASTRO
 <h1 align='center'> Hi! :wave:</h1>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
